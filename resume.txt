@@ -1,0 +1,29 @@
+PRIYA SHARMA
+(777) 888-9999 | priya.sharma@mlcorp.com
+
+PROFILE
+Experienced Machine Learning Engineer with 5 years in production environments. Deep expertise in model deployment, cloud infrastructure, and core algorithm design.
+
+TECHNICAL EXPERTISE
+Languages: Python, Scala, Java
+Libraries: scikit-learn, TensorFlow, Keras, PyTorch
+Cloud & Tools: AWS, Docker, Kubernetes, Git, Apache Spark
+
+PROFESSIONAL EXPERIENCE
+
+ML Engineer | Algorithmic Solutions | San Jose, CA
+(2020 – Present)
+* Built and managed end-to-end Machine Learning pipelines using **Python** and **TensorFlow**.
+* Deployed scalable containerized services using **Docker** and **Kubernetes** on **AWS**.
+* Collaborated on large-scale data processing using **Apache Spark**.
+* Maintained version control for all models and code using **Git**.
+
+Data Scientist | Analytics Group | Remote
+(2018 – 2020)
+* Performed feature engineering using **scikit-learn** and statistical methods.
+* Developed deep learning models with **Keras** and **PyTorch**.
+
+EDUCATION
+M.S. in Computer Engineering
+Stanford University, Stanford, CA
+(2016 – 2018)

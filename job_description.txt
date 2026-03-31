@@ -1,0 +1,1 @@
+REQUIRED_SKILLS: python, java, sql, communication, teamwork, problem solving, TensorFlow
